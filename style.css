@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.dropdown{
+    height:15%;
+    width:20%;
+    background-color:black;
+    color: white;
+    border-radius:0;
+    text-align:center;
+    padding:3px;
+}
+
+#filterbtn{
+    border-radius:0;
+    width:20%;
+}
